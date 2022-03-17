@@ -45,6 +45,8 @@
 <https://blog.csdn.net/wangfeijiu/article/details/112454405>
 25. 一文搞懂MySQL索引（清晰明了）
 <https://blog.csdn.net/wangfeijiu/article/details/113409719>
+26. 为什么MySQL会选错索引？
+<https://www.crblog.cc/mysql/_book/chapter3/12%E4%B8%BA%E4%BB%80%E4%B9%88MySQL%E4%BC%9A%E9%80%89%E9%94%99%E7%B4%A2%E5%BC%95.html>
 
 
 

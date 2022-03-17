@@ -78,6 +78,9 @@ public class ThreadTest {
 14. Java内存模型（JMM）总结
 <https://zhuanlan.zhihu.com/p/29881777>
 <https://www.cnblogs.com/hello-shf/p/12100799.html>
+15. 深入分析Synchronized原理(阿里面试题)
+<https://www.cnblogs.com/aspirant/p/11470858.html>
+16. 
 
 
 
@@ -101,9 +104,13 @@ Java多线程——交替打印ABC
 <https://tech.meituan.com/2018/11/15/java-lock.html>
 19. Java线程池七个参数详解：核心线程数、最大线程数、空闲线程存活时间、时间单位、工作队列、线程工厂、拒绝策略
 
+20. Java线程池实现原理及其在美团业务中的实践
+<https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html>
 
-
-
+21. Volatile与CAS的底层原理
+<https://blog.csdn.net/rekingman/article/details/89464001#:~:text=CAS%E6%98%AF%E5%9F%BA%E4%BA%8E%E5%8E%9F%E5%AD%90%E6%B1%87%E7%BC%96%E7%9A%84%EF%BC%8C%E8%80%8Cvolatile%E5%8F%98%E9%87%8F%E5%9C%A8%E4%B8%BB%E5%AD%98%E4%B8%AD%E7%9A%84%E6%9C%80%E6%96%B0%E5%80%BC%E5%8F%88%E6%98%AF,%E7%94%B1BUS%EF%BC%88%E6%80%BB%E7%BA%BF%EF%BC%89%E4%B8%8E%E7%BC%93%E5%AD%98%E4%B8%80%E8%87%B4%E6%80%A7%E5%8E%9F%E5%88%99%20%E4%BF%9D%E8%AF%81>
+22. 解决多线程安全问题-无非两个方法synchronized和lock 具体原理以及如何 获取锁AQS算法 (百度-美团)
+<https://www.cnblogs.com/aspirant/p/8657681.html>
 
 
 
@@ -162,7 +169,9 @@ Java多线程——交替打印ABC
 4. Java双亲委派模型是什么、优势在哪、双亲委派模型的破坏
 <https://blog.nowcoder.net/n/1c94ae6f6a1b4f18b7446ef38a540acf?from=nowcoder_improve#:~:text=%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%A8%A1%E5%9E%8B%E6%98%AFJ,%E5%85%8D%E7%B1%BB%E7%9A%84%E9%87%8D%E5%A4%8D%E5%8A%A0%E8%BD%BD>.
 <https://blog.csdn.net/weixin_36586120/article/details/117457014>
-1. 面试题：能否自定义一个java.lang.Object类
+5. 面试题：能否自定义一个java.lang.Object类
 <https://blog.csdn.net/u011212394/article/details/104113847>
+6. 系统运行缓慢，CPU 100%，以及 Full GC 次数过多问题的排查思路
+<https://developer.aliyun.com/article/726200>
 
 

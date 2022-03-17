@@ -18,4 +18,7 @@
 <https://developer.aliyun.com/article/839401>
 4. Redis（1.16）Redis为什么是单线程？为什么快？
 <https://www.cnblogs.com/gered/p/12074569.html>
-5. 
+5. Redis不是一直号称单线程效率也很高吗，为什么又采用多线程了？
+<https://www.1024sou.com/article/35438.html>
+6. 史上最全Redis面试49题(含答案):哨兵+复制+事务+集群+持久化等
+<https://studygolang.com/articles/16848>
